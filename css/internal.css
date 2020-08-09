@@ -1,0 +1,25 @@
+*{
+	margin:0;
+	padding:0;
+}
+.pradip img{
+	height:500px;
+	width:100%;
+}
+.imag:hover{
+	opacity:2;
+}
+.contact{
+	height:300px;
+	width:100%;
+	background-image: url(../image/2.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	margin-top: 2%;
+}
+.para{
+	color:white;
+	position:absolute;
+	font-size:30px;
+	padding:130px 550px;
+}
